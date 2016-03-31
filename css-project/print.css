@@ -1,0 +1,49 @@
+* {
+  background: transparent; !important
+  color: black;
+  font-size: 10pt;
+  font-family: serif;
+}
+
+@page{
+  margin:.5in;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+nav {
+  display:none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+h1 {
+  font-size: 18pt;
+  text-align: center;
+  margin: 0;
+}
+
+.column1, .column2 {
+  background-color: rbg (255,255,255);
+  width: 300px;
+  float:left;
+  margin:10px;
+}
+
+a[href^="http"] {
+  display: inline; /* sets up the link text... */
+}
+
+a[href^=http]:after {
+  content: " (" attr(href) ") ";
+  /* ...so the url appears after! */
+}
+
+a {
+  text-decoration: none;
+}

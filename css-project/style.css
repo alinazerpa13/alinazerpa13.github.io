@@ -1,0 +1,71 @@
+body{
+  font-family:"Georgia", "Times New Roman", serif;
+  font-size: 16px;
+  line-height: .25in;
+  color: #222; /*dark gray*/
+  width: 960px;
+  margin:0 auto;
+}
+
+a{
+  color: rgb(0,102,02); /*dark green*/
+}
+
+a:visited {
+  color: rgb(99,166,85); /*lighter green*/
+}
+
+a:hover{
+  color: rgb(102,51,10); /*brown*/
+}
+
+a:active{
+  color: rgb(204,102,0); /*darkish orange*/
+}
+
+nav ul {
+  list-style: none; /* do not remove or modify */
+  padding-left: 0; /* do not remove or modify */
+}
+
+nav li {
+  display: inline-block; /* do not remove or modify */
+}
+
+h1, nav, h2 {
+  text-align: center;
+}
+
+div.about-me {
+  margin:5px;
+  padding:5px;
+}
+
+div.experience {
+  margin:5px;
+  padding:5px;
+}
+
+div.education {
+  margin:5px;
+  padding:5px;
+  float: right;
+  }
+
+
+div.skills {
+  margin:5px;
+  padding:5px;
+}
+
+div.contact{
+  margin:5px;
+  padding:5px;
+}
+
+.column1, .column2 {
+  background-color: rbg (255,255,255);
+  width: 400px;
+  float:left;
+  margin:10px;
+}
