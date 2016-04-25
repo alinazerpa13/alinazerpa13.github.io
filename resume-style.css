@@ -1,0 +1,75 @@
+nav {
+  font-family: "Franklin Gothic Book", "Century Gothic";
+  font-size: 25pt;
+  font-weight: bold;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 450px;
+  padding-right: 10px;
+  border-bottom: none;
+  margin-top: 50px;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+
+h1 {
+  font-family: "Lucida Fax", "Palatino Linotype";
+  font-size: 16pt;
+}
+
+
+h2 {
+  font-family: "Lucida Fax", "Palatino Linotype";
+  font-size: 14pt;
+}
+
+h3 {
+  font-family: "Lucida Fax", "Palatino Linotype";
+  font-size: 12pt;
+}
+
+p {
+  font-family: "Corbel", "MS Reference Sans Serif Regular";
+  font-size: 14pt;
+  line-height: 1.2em;
+}
+
+a:link {
+  color:rgb(0,0,0);
+  text-decoration: none;
+}
+
+a:visited {
+  color:rgb(0,0,0);
+}
+
+a:hover {
+  color:rgb(76,153,0);
+}
+
+a:active {
+  color:rgb(34, 139, 34);
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+
+.column1, .column2 {
+  background-color: rbg (255,255,255);
+  margin-left: 250px;
+  text-align: left;
+  float: left;
+}
+
+#resumelogo {
+  position: relative;
+  left: 45%;
+}

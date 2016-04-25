@@ -1,0 +1,64 @@
+* {
+  background: transparent; !important
+  color: black;
+}
+
+@page{
+  margin:.5in;
+}
+
+nav, iframe {
+  display:none;
+}
+
+#article-images {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h1 {
+  font-family: "Lucida Fax", "Palatino Linotype";
+  font-size: 12pt;
+}
+
+p {
+  font-family: "Corbel", "MS Reference Sans Serif Regular";
+  font-size: 10pt;
+  line-height: 1.2em;
+}
+
+img#aboutme,#photography,#articles {
+  position: relative;
+  left: 37%;
+  width: 150px;
+  height: 150px;
+}
+
+#past-about-me, #present-about-me, #future-about-me {
+  width: 150px;
+  height: 100px;
+}
+
+#orientation-about-me {
+  width: 150px;
+  height: 225px;
+}
+
+.column1of3, .column2of3, .column3of3 {
+  width: 200px;
+  float: left;
+  margin: 9px;
+  text-align: center;
+}
+
+
+a[href^="http"] {
+  display: inline;
+}
+
+a[href^=http]:after {
+  content: " (" attr(href) ") ";
+}

@@ -1,0 +1,173 @@
+nav {
+  font-family: "Franklin Gothic Book", "Century Gothic";
+  font-size: 25pt;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: "Lucida Fax", "Palatino Linotype";
+  font-size: 16pt;
+}
+
+p {
+  font-family: "Corbel", "MS Reference Sans Serif Regular";
+  font-size: 14pt;
+  line-height: 1.2em;
+}
+
+a:link {
+  color:rgb(0,0,0);
+  text-decoration: none;
+}
+
+a:visited {
+  color:rgb(0,0,0);
+}
+
+a:hover {
+  color:rgb(76,153,0);
+}
+
+a:active {
+  color:rgb(34, 139, 34);
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 450px;
+  padding-right: 10px;
+  border-bottom: none;
+  margin-top: 50px;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 100px;
+}
+
+#azlogo {
+  position: relative;
+  margin-left: 800px;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.column1of3, .column2of3, .column3of3 {
+  width: 300px;
+  float: left;
+  margin-left: 250px;
+  text-align: left;
+}
+
+img#aboutme,#photography,#articles {
+  position: relative;
+  left: 45%;
+}
+
+.alinaphotography {
+  margin-left: 537px;
+}
+
+#alinazerpalogo {
+  position: relative;
+}
+
+#article1 {
+  height: 600px;
+  width: 500px;
+  margin-left: 300px;
+  text-align: left;
+  float: left;
+  background-color: rgb(255, 255, 255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article2 {
+  height: 600px;
+  width: 500px;
+  margin-left: 1000px;
+  text-align: left;
+  background-color: rgb(255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article3 {
+  height: 600px;
+  width: 500px;
+  margin-left: 300px;
+  margin-top: 10px;
+  float: left;
+  text-align: left;
+  background-color: rgb (255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article4 {
+  height: 600px;
+  width: 500px;
+  margin-left: 1000px;
+  margin-top: 10px;
+  text-align: left;
+  background-color: rgb (255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article5 {
+  height: 600px;
+  width: 500px;
+  margin-left: 300px;
+  margin-top: 10px;
+  float: left;
+  text-align: left;
+  background-color: rgb (255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article6 {
+  height: 600px;
+  width: 500px;
+  margin-left: 1000px;
+  margin-top: 10px;
+  text-align: left;
+  background-color: rgb (255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
+
+#article7 {
+  height: 600px;
+  width: 500px;
+  margin-left: 300px;
+  margin-top: 10px;
+  float: left;
+  text-align: left;
+  background-color: rgb (255,255,255);
+  border: 3px solid #7eff8f;
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 30px;
+}
