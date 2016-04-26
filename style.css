@@ -78,7 +78,7 @@ img#aboutme,#photography,#articles {
 #article1 {
   height: 600px;
   width: 500px;
-  margin-left: 300px;
+  margin-left: 100px;
   text-align: left;
   float: left;
   background-color: rgb(255, 255, 255);
@@ -92,7 +92,7 @@ img#aboutme,#photography,#articles {
 #article2 {
   height: 600px;
   width: 500px;
-  margin-left: 1000px;
+  margin-left: 800px;
   text-align: left;
   background-color: rgb(255,255,255);
   border: 3px solid #7eff8f;
@@ -105,7 +105,7 @@ img#aboutme,#photography,#articles {
 #article3 {
   height: 600px;
   width: 500px;
-  margin-left: 300px;
+  margin-left: 100px;
   margin-top: 10px;
   float: left;
   text-align: left;
@@ -120,7 +120,7 @@ img#aboutme,#photography,#articles {
 #article4 {
   height: 600px;
   width: 500px;
-  margin-left: 1000px;
+  margin-left: 800px;
   margin-top: 10px;
   text-align: left;
   background-color: rgb (255,255,255);
@@ -134,7 +134,7 @@ img#aboutme,#photography,#articles {
 #article5 {
   height: 600px;
   width: 500px;
-  margin-left: 300px;
+  margin-left: 100px;
   margin-top: 10px;
   float: left;
   text-align: left;
@@ -149,7 +149,7 @@ img#aboutme,#photography,#articles {
 #article6 {
   height: 600px;
   width: 500px;
-  margin-left: 1000px;
+  margin-left: 800px;
   margin-top: 10px;
   text-align: left;
   background-color: rgb (255,255,255);
@@ -163,7 +163,7 @@ img#aboutme,#photography,#articles {
 #article7 {
   height: 600px;
   width: 500px;
-  margin-left: 300px;
+  margin-left: 100px;
   margin-top: 10px;
   float: left;
   text-align: left;
