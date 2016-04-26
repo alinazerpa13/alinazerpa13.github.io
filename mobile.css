@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 @media (max-width: 320px) {
-  nav {
+  nav ul li a {
     display: none;
   }
 
