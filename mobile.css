@@ -4,8 +4,17 @@
     margin: 0 auto;
   }
 
-  main header nav ul li a {
+  nav ul {
+    list-style: none;
+    padding-left:0px;
+    padding-right: 0px;
+    border-bottom: none;
+    margin-top: 0px;
+  }
+
+  nav li {
     display: none;
+    margin-left: 0px;
   }
 
 
