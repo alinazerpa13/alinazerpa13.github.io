@@ -60,7 +60,7 @@ nav li {
 }
 
 img#aboutme,#photography,#articles {
-  position: relative;
+  position: absolute;
   left: 30%;
 }
 
