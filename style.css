@@ -34,7 +34,7 @@ a:active {
 
 nav ul {
   list-style: none;
-  padding-left: 225px;
+  padding-left: 100px;
   padding-right: 5px;
   border-bottom: none;
   margin-top: 25px;
@@ -53,7 +53,7 @@ nav li {
 }
 
 .column1of3, .column2of3, .column3of3 {
-  width: 200px;
+  width: 250px;
   float: left;
   margin-left: 135px;
   text-align: left;
