@@ -34,7 +34,7 @@ a:active {
 
 nav ul {
   list-style: none;
-  padding-left: 100px;
+  padding-left: 300px;
   padding-right: 5px;
   border-bottom: none;
   margin-top: 25px;
@@ -47,7 +47,7 @@ nav li {
 
 #azlogo {
   position: relative;
-  margin-left: 400px;
+  margin-left: 500px;
   margin-bottom: 10px;
   margin-top: 30px;
 }
@@ -62,6 +62,12 @@ nav li {
 img#aboutme,#photography,#articles {
   position: relative;
   left: 30%;
+}
+
+#azphotog {
+  margin-left: 50px;
+  height: auto;
+  width: auto;
 }
 
 #alinazerpalogo {
