@@ -1,12 +1,8 @@
 @media (max-width: 320px) {
 
-nav {
+nav ul, li{
     display: none;
   }
-
-h1,h2,ul,li,p {
-  display: none;
-}
 
 
 }
