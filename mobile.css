@@ -1,6 +1,12 @@
 @media (max-width: 320px) {
+  #wrapper {
+    max-width: 320px;
+    margin: 0 auto;
+  }
+
   main header nav ul li a {
     display: none;
   }
+
 
 }
