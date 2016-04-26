@@ -17,6 +17,10 @@
     margin-left: 0px;
   }
 
+  #nav-web{
+    display:none;
+  }
+
   #azlogo {
     position: relative;
     margin-left: 5px;
