@@ -42,7 +42,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 35px;
+  margin-left: 100px;
 }
 
 #azlogo {
@@ -61,7 +61,7 @@ nav li {
 
 img#aboutme,#photography,#articles {
   position: relative;
-  left: 40%;
+  left: 30%;
 }
 
 .alinaphotography {
