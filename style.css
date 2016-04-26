@@ -42,7 +42,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 50px;
+  margin-left: 35px;
 }
 
 #azlogo {
@@ -53,9 +53,9 @@ nav li {
 }
 
 .column1of3, .column2of3, .column3of3 {
-  width: 150px;
+  width: 200px;
   float: left;
-  margin-left: 125px;
+  margin-left: 135px;
   text-align: left;
 }
 
