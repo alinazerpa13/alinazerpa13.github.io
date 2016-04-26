@@ -1,6 +1,17 @@
 @media (max-width: 320px) {
-
-  nav {
+nav {
     display: none;
   }
+
+h1,h2,ul,li,p {
+  display: none;
+}
+
+#azlogo {
+  position: relative;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
 }
